@@ -1,11 +1,11 @@
 
-# Nefeli: Accessible Cryptocurrency for Human beens
+# Aurelius coin : Accessible Cryptocurrency for Human beens
 
-Nefeli is a privacy-focused cryptocurrency designed to empower individuals by ensuring mining remains accessible to everyone, not dominated by large mining farms. Forked from Wownero, Nefeli inherits its commitment to decentralization and inclusivity but focuse on a scope to make Cryptocurrency mining available for all humans
+Aurelius is a privacy-focused cryptocurrency designed to empower individuals by ensuring mining remains accessible to everyone, not dominated by large mining farms. Forked from Wownero, Nefeli inherits its commitment to decentralization and inclusivity but focuse on a scope to make Cryptocurrency mining available for all humans
 
-# Nefeli Tokenomics
+# Aurelius Tokenomics
 
-Nefeli is designed to offer fast transactions, predictable emissions, and a secure blockchain. This document outlines the tokenomics for Nefeli with a block time of **1 minute** and a steady block reward.
+Aurelius is designed to offer fast transactions, predictable emissions, and a secure blockchain. This document outlines the tokenomics for Nefeli with a block time of **1 minute** and a steady block reward.
 
 ---
 
@@ -23,7 +23,7 @@ Nefeli is designed to offer fast transactions, predictable emissions, and a secu
 ---
 # Tokenomics: No Max Supply with Steady Emission
 
-Nefeli uses a **steady block reward** system with no maximum supply. This tokenomic model offers distinct advantages for long-term sustainability and miner incentives. Below are the key benefits of this approach:
+Aurelius uses a **steady block reward** system with no maximum supply. This tokenomic model offers distinct advantages for long-term sustainability and miner incentives. Below are the key benefits of this approach:
 
 ---
 
